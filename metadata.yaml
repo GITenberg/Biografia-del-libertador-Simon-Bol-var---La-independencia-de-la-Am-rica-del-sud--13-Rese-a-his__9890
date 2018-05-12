@@ -1,11 +1,16 @@
 _repo: Biografia-del-libertador-Simon-Bol-var---La-independencia-de-la-Am-rica-del-sud--13-Rese-a-his__9890
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Campano, Lorenzo
     gutenberg_agent_id: '3187'
     url: http://www.gutenberg.org/2009/agents/3187
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9890#Biografia-del-libertador-Simon-Bol-var---La-independencia-de-la-Am-rica-del-sud--13-Rese-a-his_
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
 identifiers:
